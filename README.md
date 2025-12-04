@@ -8,6 +8,6 @@ This is a simple VIN decoder for 1st generation Honda Insights. The user is able
 
 - Model year
 - Transmission type
-- If the vehicle is Factory AC (note: it is common for many factory NON AC Insights to be equipped with AC that was dealaer installed after production. Thus resulting in a car that has AC despite it's vin indicating it lacks Factory AC.)
+- If the vehicle is Factory AC (note: it is common for many factory NON AC Insights to be equipped with AC that was dealaer installed after production. This has the result of a car that has AC despite it's VIN indicating it lacks Factory AC.)
 - Production plant
 - Production market
