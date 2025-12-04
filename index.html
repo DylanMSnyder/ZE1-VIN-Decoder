@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZE1 Insight VIN Decoder</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <img src="img/Logo.png" alt="ZE1 Honda Insight VIN Decoder">
+
+    <div class="form-container">
+        <form id="vin-form">
+            <input type="text" name="vin-input" id="vin-input" placeholder="Enter VIN" required>
+            <button type="submit" onclick="decodeVIN(event)">Decode VIN</button>
+        </form>
+    </div>
+
+    <!-- Result of ZE1 VIN read -->
+    <div id="vin-result" class="vin-result"></div>
+
+    <script src="vindecoder.js"></script>
+</body>
+
+</html>
