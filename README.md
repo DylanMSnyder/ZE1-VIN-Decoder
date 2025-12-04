@@ -2,7 +2,7 @@
 [Link to site here](https://dylanmsnyder.github.io/ZE1-VIN-Decoder/)
 ## _VIN Decoder for 1st Generation Honda Insights_
 
-This is a simple VIN decoder for the 1st generation Honda Insights. The user is able to input their VIN and recieve build information based on Honda's sequential VINs for ZE1 Honda Insights.
+This is a simple VIN decoder for 1st generation Honda Insights. The user is able to input their VIN and recieve build information based on Honda's sequential VINs for ZE1 Honda Insights.
 
 ## Build Information
 
