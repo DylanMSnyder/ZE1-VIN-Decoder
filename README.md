@@ -4,7 +4,7 @@
 
 This is a simple VIN decoder for 1st generation Honda Insights. The user is able to input their VIN and recieve build information based on Honda's sequential VINs for ZE1 Honda Insights.
 
-## Build Information
+### Build Information
 
 - Model year
 - Transmission type
